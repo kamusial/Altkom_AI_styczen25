@@ -1,0 +1,29 @@
+Brakujące wartości w poszczególnych kolumnach:
+pregnancies                  0
+glucose                      4
+blskinthicknoodpressure      6
+ess                          8
+insulin                      6
+bmi                          4
+diabetespedigreefunction    10
+age                          2
+outcome                      0
+dtype: int64
+
+Liczba zduplikowanych rekordów: 768
+
+Typy danych w poszczególnych kolumnach:
+pregnancies                   int64
+glucose                     float64
+blskinthicknoodpressure     float64
+ess                         float64
+insulin                     float64
+bmi                         float64
+diabetespedigreefunction    float64
+age                         float64
+outcome                       int64
+dtype: object
+
+Sugestie naprawy danych:
+Rozważ uzupełnienie brakujących wartości lub usunięcie wierszy/kolumn z zbyt wieloma brakującymi wartościami.
+Rozważ usunięcie zduplikowanych wpisów.
