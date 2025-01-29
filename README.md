@@ -1,0 +1,1 @@
+# Altkom_AI_styczen25
